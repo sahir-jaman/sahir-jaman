@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Sahir jaman
-#### Flutter | Machine Learning
+#### Data Science | Machine Learning
 
 I want to update myself day by day
 
